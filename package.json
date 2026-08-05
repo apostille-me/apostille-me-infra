@@ -1,0 +1,8 @@
+{
+  "name": "apostille-me-infra",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
