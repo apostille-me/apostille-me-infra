@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "repository": "apostille-me/apostille-me-infra",
+  "status": "noncanonical_redirect",
+  "canonicalRepository": "apostille-me/apme-infra",
+  "canonicalBranch": "main",
+  "decision": "duplicate-fold-2026-09-15",
+  "decidedAt": "2026-09-15",
+  "publishingAllowed": false,
+  "sourceChangesAllowed": false
+}
